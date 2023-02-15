@@ -19,6 +19,8 @@
 
 </div>
 
+------------------------
+
 ### Обо мне>>>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&author=ZeroFantom&quote=Ня~)](https://github.com/piyushsuthar/github-readme-quotes)
