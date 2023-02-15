@@ -11,11 +11,11 @@
 
 -----------------------
 
-### Мои языки и платформы разработки>>>
+### Моя подробная статистика гита>>>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroFantom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroFantom&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)     
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroFantom&layout=compact&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroFantom&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=ru)     
 
 </div>
 
@@ -24,22 +24,22 @@
 
 <div align="center">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroFantom&repo=LabWork)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroFantom&repo=LabWork&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
 <div align="left">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroFantom&repo=)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroFantom&repo=Abyss_Launcher&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroFantom&repo=)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroFantom&repo=ApiEC&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
   
   <div align="right">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroFantom&repo=)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroFantom&repo=wapidarkliezero&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroFantom&repo=)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroFantom&repo=DSJsonECLibrary&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
