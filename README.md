@@ -37,29 +37,3 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&author=ZeroFantom&quote=Всё+можно+написать+на+одном+языке,+но+потраченные+усилия+не+будут+стоить+стольких+нервных+клеток...)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
-
-----------------------
-
-### Кратко о моих репозиториях>>>
-
-<div align="center">
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroFantom&repo=LabWork&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
-<div align="left">
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroFantom&repo=Abyss_Launcher&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroFantom&repo=ApiEC&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-  
-  <div align="right">
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroFantom&repo=wapidarkliezero&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeroFantom&repo=DSJsonECLibrary&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
