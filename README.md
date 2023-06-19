@@ -11,7 +11,7 @@
 
 <h2 align="center">:zap: GitHub Статистика </h2>
 
-<div algin="center">
+<div algin="center" width="100%">
 <table>
     <tr>
         <td valign="top">
