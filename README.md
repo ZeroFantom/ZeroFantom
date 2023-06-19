@@ -15,9 +15,7 @@
 <table>
     <tr>
         <td valign="top">
-           
-          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroFantom&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=ru)
-        
+          [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroFantom&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=ru)(https://github.com/anuraghazra/github-readme-stats)]
         </td>
         <td valign="top">
             <a href="https://git.io/streak-stats"><img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=ZeroFantom&theme=gotham" /></a>
