@@ -15,18 +15,13 @@
    <img src="https://github-readme-stats.vercel.app/api?username=ZeroFantom&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=ru"/>
 </div>
 
------------------------
-
 <h2 align="center">Портфолио и интересные факты из метрики</h2>
 
 <div align="center">
 <picture style="width: 100%;display: block;">
-  <img alt="github-metrics" src="github-metrics.svg" style="width: inherit;">
+  <img alt="github-metrics" src="github-metrics.svg" style="width: 100%;">
 </picture>
 </div>
-
-
-------------------------
 
 <h2 align="center">Обо мне</h2>
 
