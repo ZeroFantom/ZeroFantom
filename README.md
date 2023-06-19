@@ -11,18 +11,18 @@
 
 <h2 align="center">:zap: GitHub Статистика </h2>
 
-<div algin="center">
+<div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=ZeroFantom&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=ru"/>
 </div>
 
 -----------------------
 
 ### Портфолио и интересные факты из метрики>>>
-
+<div align="center">
 <picture>
   <img alt="github-metrics" src="github-metrics.svg">
 </picture>
-
+</div>
 ------------------------
 
 ### Обо мне>>>
