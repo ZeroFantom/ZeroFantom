@@ -9,17 +9,19 @@
   
 </div>
 
------------------------
-
 <h2 align="center">:zap: GitHub Статистика </h2>
 <div algin="center">
 <table>
     <tr>
         <td valign="top">
-            <img alt="d351d3r's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ZeroFantom&show_icons=true&hide_border=false&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+           
+           ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroFantom&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=ru)
+        
         </td>
         <td valign="top">
+        
             <a href="https://git.io/streak-stats"><img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=ZeroFantom&theme=gotham" /></a>
+        
         </td>
     </tr>
 </table>
@@ -28,6 +30,7 @@
     <img alt="d351d3r's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroFantom&hide_border=false&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=8&hide=makefile,tex" />
 </p>
 </div>
+
 -----------------------
 
 ### Портфолио и интересные факты из метрики>>>
