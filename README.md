@@ -17,15 +17,18 @@
 
 -----------------------
 
-### Портфолио и интересные факты из метрики>>>
+<h2 align="center">Портфолио и интересные факты из метрики</h2>
+
 <div align="center">
-<picture>
-  <img alt="github-metrics" src="github-metrics.svg">
+<picture style="width: 100%;display: block;">
+  <img alt="github-metrics" src="github-metrics.svg" style="width: inherit;">
 </picture>
 </div>
+
+
 ------------------------
 
-### Обо мне>>>
+<h2 align="center">Обо мне</h2>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&author=ZeroFantom&quote=Ня~)](https://github.com/piyushsuthar/github-readme-quotes)
 
