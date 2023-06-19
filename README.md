@@ -15,7 +15,9 @@
 <table>
     <tr>
         <td valign="top">
+           
           ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroFantom&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=ru)
+        
         </td>
         <td valign="top">
             <a href="https://git.io/streak-stats"><img alt="Github Streak" src="http://github-readme-streak-stats.herokuapp.com?user=ZeroFantom&theme=gotham" /></a>
@@ -23,7 +25,7 @@
     </tr>
 </table>
 <p align="center">
-    <img alt="d351d3r's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroFantom&hide_border=false&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=8&hide=makefile,tex" />
+    <img alt="Zero's Github Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroFantom&hide_border=false&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=8&hide=makefile,tex" />
 </p>
 </div>
 
