@@ -30,5 +30,5 @@
 <div align="right">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&author=ZeroFantom&quote=Всё+можно+написать+на+одном+языке,+но+потраченные+усилия+не+будут+стоить+стольких+нервных+клеток...)](https://github.com/piyushsuthar/github-readme-quotes)
-
+https://forms.gle/WZ62iJTL3qMiDHuP8
 </div>
