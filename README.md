@@ -44,11 +44,19 @@
 | [LabWork](https://github.com/ZeroFantom/LabWork) | Учебный проект: поиск файлов и дубликатов на C# |
 | [TripleDES](https://github.com/ZeroFantom/TripleDES) | Учебный криптографический эксперимент, не для производственного использования |
 
-### Сторонние проекты и изучение архитектуры
+## 04 / Вклад в Open Source
 
-В профиле также сохранены [eShop](https://github.com/ZeroFantom/eShop), [CaptchaGenerator](https://github.com/ZeroFantom/CaptchaGenerator) и [Avalonia.GIF](https://github.com/ZeroFantom/Avalonia.GIF). Они не представлены как полностью самостоятельные авторские продукты; происхождение и лицензии сохраняются в соответствующих репозиториях.
+### [VkNet](https://github.com/vknet/vk)
 
-## 04 / Подход к разработке
+Вклад в стороннюю библиотеку VK API для .NET: переработка перегрузок `Delete` и `DeleteAsync` для удаления сообщений, уточнение допустимых параметров и согласование синхронной и асинхронной реализации.
+
+[PR #1258 — принят 9 января 2023 года](https://github.com/vknet/vk/pull/1258) · [Коммит](https://github.com/vknet/vk/commit/8cade8a427950c43a7f08ca64aa5e25448ec6797)
+
+### [Avalonia.GIF](https://github.com/ZeroFantom/Avalonia.GIF)
+
+Модифицированный форк [AvaloniaUI/Avalonia.GIF](https://github.com/AvaloniaUI/Avalonia.GIF). Исходная библиотека — работа её авторов, включая Jumar Macato (MIT). Мои изменения ограничиваются собственными доработками; их точный объём ещё предстоит выделить сравнением версий.
+
+## 05 / Подход к разработке
 
 Предпочитаю постепенно развивать прототипы до устойчивых систем: разделять ответственность компонентов, документировать архитектуру, проверять изменения и сохранять историю решений.
 
